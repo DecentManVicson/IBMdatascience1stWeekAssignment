@@ -1,3 +1,3 @@
 # IBMdatascience1stWeekAssignment
 
-This is my first week assignment
+This is my first week peer-graded assignment
